@@ -1,23 +1,39 @@
-### NYC Parking Violations Analysis
+# 🚗 NYC Parking Violations Analysis
 
-This project analyzes over 5 million parking violation records issued in New York City between July 4, 2022, and January 16, 2024. Our goal was to identify trends, hotspots, and high-risk timeframes to support smarter enforcement strategies.
-![image](https://github.com/user-attachments/assets/2c48baf0-201c-40ee-919c-552d1b83be06)
+This project analyzes over **5 million parking violation records** issued in New York City between **July 4, 2022, and January 16, 2024**.  
+Our goal was to identify trends, hotspots, and high-risk timeframes to support smarter enforcement strategies.
 
-🔍 ## Key Insights:
-Manhattan reported the highest number of violations among all boroughs.
+![Dashboard Screenshot](https://github.com/user-attachments/assets/2c48baf0-201c-40ee-919c-552d1b83be06)
 
-Top violation: “No Parking – Street Cleaning”
+---
 
-Most active precincts: 14, 13, 18, 19, and 17
+## 🔍 Key Insights
 
-Violations spike between 6 AM to 2 PM, tapering afterward.
+- **Manhattan** reported the highest number of violations among all boroughs.  
+- Top violation: **“No Parking – Street Cleaning”**  
+- Most active precincts: **14, 13, 18, 19, and 17**  
+- Violations spike between **6 AM to 2 PM**, tapering afterward.  
+- **Passenger vehicles** were cited more than commercial ones.  
 
-Passenger vehicles were cited more than commercial ones.
+---
 
-📌 ## Recommendations:
-Focus enforcement in top precincts during peak violation hours.
+## 📌 Recommendations
 
-Improve access to affordable parking and public transit.
+- Focus enforcement in **top precincts** during **peak violation hours (6 AM – 2 PM)**  
+- Improve access to **affordable parking** and **public transit**  
+- Launch **awareness campaigns** targeting passenger vehicle owners  
 
-Increase awareness campaigns for passenger vehicle owners.
+---
+
+## 📊 Tools Used
+
+- Tableau (for dashboard creation & visualization)  
+- NYC Open Data (for data source)
+
+---
+
+## 🔗 Dashboard Access
+
+> _This dashboard is hosted on Tableau Public ._  
+> https://public.tableau.com/views/NYCParkingAnalysis/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
